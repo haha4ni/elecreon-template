@@ -15,7 +15,7 @@ npm start
 
 ### Environment Settings
 1. install [Node.js](https://nodejs.org)
-3. install Electron
+3. install Electron  
     `npm init`  
     資料夾會build出一個package.json  
     `npm i -D electron`  

@@ -1,0 +1,15 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "hello_world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haha",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}

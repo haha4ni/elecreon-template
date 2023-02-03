@@ -68,13 +68,13 @@ A basic Electron application needs just these files:
 electron-packager . PackageName: 將目前全部資料打包成PackageName這個名字  
 
 
-–platform = darwin(Mac),win32(Windows),linux(LINUX)
-–arch = ia32,x64,all
-–version = Electron版本
-–icon = icon路徑
-–asar = true or false,設定trun是把程式文件封裝,比較不容易被看到原始碼
-–out = 輸出文件名稱(dist)
-–ignore = 忽略檔案不要打包,建議把electron都忽略掉,因為打包後裡面就有了,可以減少檔案大小
+–platform = darwin(Mac),win32(Windows),linux(LINUX)  
+–arch = ia32,x64,all  
+–version = Electron版本  
+–icon = icon路徑  
+–asar = true or false,設定trun是把程式文件封裝,比較不容易被看到原始碼  
+–out = 輸出文件名稱(dist)  
+–ignore = 忽略檔案不要打包,建議把electron都忽略掉,因為打包後裡面就有了,可以減少檔案大小  
 
 
 

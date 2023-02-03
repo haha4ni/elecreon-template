@@ -1,11 +1,11 @@
 # Electron Lazy Package
 
 ## Build Setup  
-before run
+Install environment
 ```cmd
 npm install
 ```
-run
+Run
 ```cmd
 npm start
 ```
